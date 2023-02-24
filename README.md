@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-My name is Kirils, and it nice to you in advance! :sunglasses:
+My name is Kirils, and it is nice to meet you in advance! :sunglasses:
+I'm from Riga, Latvia 
+Fluently speaking :latvia:, :england:
+
+I have 
 
 
 <!--
