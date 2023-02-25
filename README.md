@@ -8,6 +8,7 @@ Fluently speaking english, latvian and russian languages.
 Last 10 years spent as Project Manager, Project Engineer and Commercial Director in a couple of leading latvian construction companies, specializing in architectural glazing systems, mostly serving big budget industrial projects, such as hospitals, universities, hotels, museums, theatres and other public places all across the Europe and Scandinavia.
 
 :toolbox:
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript">
 
 
 <!--
