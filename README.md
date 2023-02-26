@@ -4,7 +4,7 @@
 
 <div align="center">
 
-| <img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ke0hdyi3xzvawir8f9shyiqgjqfm29j8aan7286e&rid=giphy.gif&ct=g" width="400" height="300"> | <div align="center"><h2>I'm a front-end developer passionate about:</h2><p><ul><li align="start"><i>Learning and keeping up with new technologies and trends.:chart_with_upwards_trend:</i></li><li align="start"><i>Developing reusable and modular code to make the development process more efficient maintainable and scalable.:chart_with_upwards_trend:</i></li><li align="start"><i>Using modern web development tools and frameworks to build high-performance and scalable applications.:chart_with_upwards_trend:</i></li><li align="start"><i>Building responsive and accessible web applications that provide a great user experience across all devices.:chart_with_upwards_trend:</i></li></ul></p></div> 
+| <img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ke0hdyi3xzvawir8f9shyiqgjqfm29j8aan7286e&rid=giphy.gif&ct=g" width="400" height="300"> | <div align="center"><h2>I'm a Front-end developer passionate about:</h2><p><ul><li align="start"><i>Learning and keeping up with new technologies and trends.:chart_with_upwards_trend:</i></li><li align="start"><i>Developing reusable and modular code to make the development process more efficient, maintainable and scalable, using modern web development tools and frameworks to build high-performance applications.:globe_with_meridians:</i></li><li align="start"><i>Building responsive and accessible web applications that provide a great user experience across all devices.:iphone:</i></li> <li align="start"><i>**** </i></li></ul></p></div> 
   | :-: | :-: |
 
 </div>
@@ -51,11 +51,11 @@
 
 <p align="center">   
   <i>
-    I am always excited to collaborate and work on new projects, so if you have any questions or ideas that you would like to share with me and let's save this world together!
-    <br><br>
-    Feel free to get in touch:
+    I am always excited to collaborate and work on new projects, so if you have any questions or ideas that you would like to share with me, feel free to get in touch and let's save this world together!:rocket:
   </i>
 </p>
+
+<br>
 
 <p align="center">   
     <a href="https://www.linkedin.com/in/kirilsreinke/">
@@ -70,7 +70,9 @@
 </p>
 
 <p align="center">
-  Thank you for visiting my repository.
+  Thank you for visiting my repository. 
+  <br>
+  Cheers!:beers:
 </p>
                                                                                                                                                  
                                                                                                                                                  
