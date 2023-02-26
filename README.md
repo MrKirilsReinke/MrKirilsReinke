@@ -27,9 +27,9 @@
 
 <br><br><br>
 
-<h2 align="center">
+<h3 align="center">
   A range of technologies and frameworks always in my :toolbox::
-</h2>
+</h3>
 
 <br>
              
