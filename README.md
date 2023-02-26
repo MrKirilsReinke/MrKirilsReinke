@@ -59,7 +59,7 @@
 
 <p align="center">   
   <i>
-    I am always excited to collaborate and work on new projects, so if you have any questions or ideas that you would like to share with me, feel free to get in touch and let's save this world together!:rocket:
+    I am always excited to collaborate and work on new projects, so if you have any questions or ideas that you would like to share with me, feel free to get in touch:rocket::
   </i>
 </p>
 
@@ -72,8 +72,8 @@
   <a href="https://github.com/MrKirilsReinke">
     <img src="https://img.shields.io/badge/github-0?style=for-the-badge&logo=github&logoColor=white&color=071A2C"" alt="Github"/>
   </a>
-  <a href="https://www.facebook.com/kirill.komanta219">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqVPLWqHqdbGNHGrQKwLzfLnbNntzCMBmZpBlMxpFKRcFrGdwFSXHsbxbDlkBWvMcRztWg">
+    <img src="https://img.shields.io/badge/gmail-%231877F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
 </p>
 
