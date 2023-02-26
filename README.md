@@ -8,8 +8,6 @@
   | :-: | :-: |
 
 </div>
-
-<!-- <hr> -->
                                                                                                                                                  
 <p align="start">
   <i>
@@ -21,11 +19,11 @@
 
 <br>
 
-<h3 align="center">
-  Checkout below my :toolbox::
-</h3>
+<hr>
 
-<br>
+<h3 align="center">
+  A range of technologies and frameworks that are always in my :toolbox::
+</h3>
              
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="50" height="50">
@@ -48,6 +46,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="50" height="50">  
 </p>
+
+<hr>
                                                                                                                                                  
 <br>
 
