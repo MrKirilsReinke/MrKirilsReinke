@@ -17,6 +17,9 @@
   </i>
 </p>
 
+![GitHub last commit](https://img.shields.io/github/last-commit/MrKirilsReinke/MrKirilsReinke?logo=Github&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/MrKirilsReinke/MrKirilsReinke?color=%23brightgreen&logo=Github&style=flat-square)
+
 <br>
 
 <h3 align="center">
