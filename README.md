@@ -8,14 +8,14 @@
 
 <div align="center">
 
-| <div align="center"><h2>I'm a front-end developer passionate about:</h2><p><ul><li align="start"><i>Learning and keeping up with new technologies and trends.</i></li><li align="start"><i>Developing reusable and modular code to make the development process more efficient maintainable and scalable.</i></li><li align="start"><i>Using modern web development tools and frameworks to build high-performance and scalable applications.</i></li><li align="start"><i>Building responsive and accessible web applications that provide a great user experience across all devices.</i></li></ul></p></div> | <img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ke0hdyi3xzvawir8f9shyiqgjqfm29j8aan7286e&rid=giphy.gif&ct=g" width="500" height="350"> |
+| <img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ke0hdyi3xzvawir8f9shyiqgjqfm29j8aan7286e&rid=giphy.gif&ct=g" width="500" height="350"> | <div align="center"><h2>I'm a front-end developer passionate about:</h2><p><ul><li align="start"><i>Learning and keeping up with new technologies and trends.</i></li><li align="start"><i>Developing reusable and modular code to make the development process more efficient maintainable and scalable.</i></li><li align="start"><i>Using modern web development tools and frameworks to build high-performance and scalable applications.</i></li><li align="start"><i>Building responsive and accessible web applications that provide a great user experience across all devices.</i></li></ul></p></div> 
   | :-: | :-: |
 
 </div>
 
 <!-- <hr> -->
                                                                                                                                                  
-<p align="end">
+<p align="start">
   <i>
     As a developer, <br>
     I strongly believe in the principles of DRY (Don't Repeat Yourself), <br>
