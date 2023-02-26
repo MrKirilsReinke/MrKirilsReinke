@@ -1,4 +1,6 @@
-### Hey there, 👋. My name is Kirils, and it's nice to meet you here! :sunglasses:
+<div align="center">
+  <h2>Hey there, 👋. My name is Kirils, and it's nice to meet you here! :sunglasses:</h2>
+</div>
 
 <br>
 
@@ -52,8 +54,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="50" height="50">  
 </p>
-
-<h2></h2>
                                                                                                                                                  
 <br>
 
