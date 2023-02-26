@@ -25,7 +25,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMrKirilsReinke&countColor=%230abf53&style=flat)
 <br>
 
-<br>
+<br><br><br>
 
 <h2 align="center">
   A range of technologies and frameworks always in my :toolbox::
