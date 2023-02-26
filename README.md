@@ -1,8 +1,4 @@
-<div align="start">
-  <h2>
-      Hey there, 👋. I'm Kirils, it's nice to meet you here! :sunglasses:
-  </h2>
-</div>
+### Hey there, 👋. I'm Kirils, it's nice to meet you here! :sunglasses:
 
 <br>
 
