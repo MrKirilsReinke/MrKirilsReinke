@@ -1,5 +1,4 @@
-### Hey there, 👋. 
-### I'm Kirils, and it's nice to meet you here! :sunglasses:
+### Hey there, 👋. My name is Kirils, and it's nice to meet you here! :sunglasses:
 
 <br>
 
