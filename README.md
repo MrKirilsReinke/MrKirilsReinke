@@ -53,13 +53,13 @@
                                                                                                                                                  
 <br>
 
-<p>   
-  <i>As a developer, I strongly believe in the principles of DRY (Don't Repeat Yourself) and clean, readable code that can be easily understood by anyone, so let's save the world together I am always excited to collaborate and work on new projects, so if you have any questions or ideas that you would like to share with me, feel free to get in
-    touch! Thank you for visiting my repository.
+<p align="center">   
+  <i>
+    I am always excited to collaborate and work on new projects, so if you have any questions or ideas that you would like to share with me and let's save this world together!
+    <br><br>
+    Feel free to get in touch:
   </i>
-</p>   
-
-<br>
+</p>
 
 <p align="center">   
     <a href="https://www.linkedin.com/in/kirilsreinke/">
@@ -73,6 +73,12 @@
   </a>
 </p>
 
+<p align="center">
+  Thank you for visiting my repository.
+</p>
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
 <!--
 **MrKirilsReinke/MrKirilsReinke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
