@@ -19,8 +19,6 @@
 
 <br>
 
-<hr>
-
 <h3 align="center">
   A range of technologies and frameworks that are always in my :toolbox::
 </h3>
