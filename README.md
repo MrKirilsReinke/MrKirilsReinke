@@ -5,7 +5,7 @@
 <div align="center">
 
 | <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ke0hdyi3xzvawir8f9shyiqgjqfm29j8aan7286e&rid=giphy.gif&ct=g" align="center" width="400" height="300"> | <div align="center"><h2>I'm a Front-end developer passionate about:</h2><p><ul><li align="start"><i>Learning and keeping up with new technologies and trends.:chart_with_upwards_trend:</i></li><li align="start"><i>Building responsive and accessible web applications that provide a great user experience across all devices.:iphone:</i></li><li align="start"><i>Working alongside other developers to establish a collaborative culture of continuous learning and development, which leads to better results and outcomes.🤝</i></li> <li align="start"><i>Developing reusable and modular code to make the development process more efficient, maintainable and scalable, using modern web development tools and frameworks to build high-performance applications.:globe_with_meridians:</i></li></ul></p></div> 
-  | :-: | :-: |
+| :-: | :-: |
 
 </div>
                                                                                                                                                  
@@ -17,14 +17,19 @@
   </i>
 </p>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/MrKirilsReinke/MrKirilsReinke?logo=Github&style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/MrKirilsReinke/MrKirilsReinke?color=%23brightgreen&logo=Github&style=flat-square)
+![](https://img.shields.io/badge/language-typescript-blue.svg?color=%230ABF53&logo=Visual%20Studio%20Code)
+![GitHub last commit](https://img.shields.io/github/last-commit/MrKirilsReinke/MrKirilsReinke?color=%230ABF53&logo=Github)
+![GitHub repo size](https://img.shields.io/github/repo-size/MrKirilsReinke/MrKirilsReinke?color=%230ABF53&logo=Github)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMrKirilsReinke&countColor=%230abf53&style=flat)
+<br>
 
 <br>
 
-<h3 align="center">
+<h2 align="center">
   A range of technologies and frameworks that are always in my :toolbox::
-</h3>
+</h2>
+
+<br>
              
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="50" height="50">
@@ -48,7 +53,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="50" height="50">  
 </p>
 
-<hr>
+<h2></h2>
                                                                                                                                                  
 <br>
 
@@ -76,9 +81,7 @@
   Thank you for visiting my repository. 
   <br>
   Cheers!:beers:
-</p>
-                                                                                                                                                 
-                                                                                                                                                 
+</p>                                                                                                                                              
                                                                                                                                                  
 <!--
 **MrKirilsReinke/MrKirilsReinke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
