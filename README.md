@@ -84,13 +84,14 @@
 <br>
 
 <p align="center">   
-    <a href="https://www.linkedin.com/in/kirilsreinke/">
+    <a href="https://www.linkedin.com/in/*****/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/MrKirilsReinke">
+  <a href="https://github.com/*****">
     <img src="https://img.shields.io/badge/github-0?style=for-the-badge&logo=github&logoColor=white&color=071A2C"" alt="Github"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqVPLWqHqdbGNHGrQKwLzfLnbNntzCMBmZpBlMxpFKRcFrGdwFSXHsbxbDlkBWvMcRztWg">
+<!--   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqVPLWqHqdbGNHGrQKwLzfLnbNntzCMBmZpBlMxpFKRcFrGdwFSXHsbxbDlkBWvMcRztWg"> -->
+  <a href="******">
     <img src="https://img.shields.io/badge/gmail-%231877F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
 </p>   
