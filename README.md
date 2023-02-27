@@ -23,7 +23,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/MrKirilsReinke/MrKirilsReinke?color=%230ABF53&logo=Github)
 ![GitHub repo size](https://img.shields.io/github/repo-size/MrKirilsReinke/MrKirilsReinke?color=%230ABF53&logo=Github)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMrKirilsReinke&countColor=%230abf53&style=flat)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrKirilsReinke&theme=vue&background=071A2C)](https://git.io/streak-stats)
 
 <br><br>
 
@@ -83,7 +82,11 @@
   Cheers!:beers:
 </p>    
                  
-
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrKirilsReinke&theme=vue&background=071A2C)](https://git.io/streak-stats)
+  
+</div>
                                                                                                                                                  
 <!--
 **MrKirilsReinke/MrKirilsReinke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
