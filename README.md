@@ -62,6 +62,19 @@
   Some of my recent projects:
 </h2>
 
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <a href="https://github.com/MrKirilsReinke/Typescript-Classes-OOP---Base-Carousel-App">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=Typescript-Classes-OOP---Base-Carousel-App" alt="Typescript-Classes-OOP---Base-Carousel-App" />
+    </a>
+    <a href="https://github.com/MrKirilsReinke/React-Components---Base-CRUD-App-with-DB">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=React-Components---Base-CRUD-App-with-DB" alt="React-Components---Base-CRUD-App-with-DB" />
+    </a>
+  </div>
+</div>
+
+<hr>
+
 <p align="center">   
   <i>
     I am always excited to collaborate and work on new projects, so if you have any questions or ideas that you would like to share with me, feel free to get in touch:rocket::
