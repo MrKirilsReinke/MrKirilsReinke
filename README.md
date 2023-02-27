@@ -59,7 +59,7 @@
 <hr>
 
 <h2 align="center">
-  Some of my recent projects:
+  Some of my recent :pinched_fingers: projects:
 </h2>
 
 <div align="center">
