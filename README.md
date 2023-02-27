@@ -64,8 +64,8 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center;">
-    <a href="https://github.com/MrKirilsReinke/Typescript-Classes-OOP---Base-Carousel-App">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=Typescript-Classes-OOP---Base-Carousel-App" alt="Typescript-Classes-OOP---Base-Carousel-App" />
+    <a href="https://github.com/MrKirilsReinke/12.1.-Typescript-Classes-OOP---Base-Carousel-App">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=12.1.-Typescript-Classes-OOP---Base-Carousel-App" alt="12.1.-Typescript-Classes-OOP---Base-Carousel-App" />
     </a>
     <a href="https://github.com/MrKirilsReinke/React-Components---Base-CRUD-App-with-DB">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=React-Components---Base-CRUD-App-with-DB" alt="React-Components---Base-CRUD-App-with-DB" />
