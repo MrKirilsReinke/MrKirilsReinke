@@ -1,5 +1,8 @@
 <div align="center">
-  <h1>Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. My name is Kirils, and it's nice to meet you here! :sunglasses:</h1>
+  <h1>
+    Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">. My name is Kirils, and it's nice to meet you here!
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32px">
+  </h1>
 </div>
 
 <br>
@@ -77,7 +80,8 @@
 
 <p align="center">   
   <i>
-    I am always excited to collaborate and work on new projects, so if you have any questions or ideas that you would like to share with me, feel free to get in touch:rocket::
+    I am always excited to collaborate and work on new projects, so if you have any questions or ideas that you would like to share with me, feel free to get in touch
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="20px" height="20px">:
   </i>
 </p>
 
@@ -114,7 +118,8 @@
 <p align="center">
   Thank you for visiting my repository. 
   <br>
-  Cheers!:beers:
+  Cheers!
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37b/512.gif" alt="🍻" width="20px" height="20px">
 </p> 
                                                                                                                                                  
 <!--
