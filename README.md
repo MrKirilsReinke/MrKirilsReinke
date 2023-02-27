@@ -22,7 +22,7 @@
 <hr>
 
 <h2 align="center">
-  Technologies and frameworks I :toolbox: with:
+  Technologies and frameworks in my :toolbox::
 </h2>
              
 <p align="center">
