@@ -11,7 +11,7 @@
 
 </div>
                                                                                                                                                  
-<p align="right">
+<p align="center">
   <i>
     As a developer, <br>
     I strongly believe in the principles of DRY (Don't Repeat Yourself), <br>
