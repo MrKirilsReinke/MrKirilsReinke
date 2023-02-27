@@ -74,19 +74,19 @@
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqVPLWqHqdbGNHGrQKwLzfLnbNntzCMBmZpBlMxpFKRcFrGdwFSXHsbxbDlkBWvMcRztWg">
     <img src="https://img.shields.io/badge/gmail-%231877F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
-</p>
-
-<p align="center">
-  Thank you for visiting my repository. 
-  <br>
-  Cheers!:beers:
-</p>    
+</p>   
                  
 <div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrKirilsReinke&theme=vue&background=071A2C)](https://git.io/streak-stats)
   
 </div>
+                   
+<p align="center">
+  Thank you for visiting my repository. 
+  <br>
+  Cheers!:beers:
+</p> 
                                                                                                                                                  
 <!--
 **MrKirilsReinke/MrKirilsReinke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
