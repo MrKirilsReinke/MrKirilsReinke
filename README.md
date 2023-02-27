@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hey there, 👋. My name is Kirils, and it's nice to meet you here! :sunglasses:</h2>
+  <h2>Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. My name is Kirils, and it's nice to meet you here! :sunglasses:</h2>
 </div>
 
 <br>
@@ -23,9 +23,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/MrKirilsReinke/MrKirilsReinke?color=%230ABF53&logo=Github)
 ![GitHub repo size](https://img.shields.io/github/repo-size/MrKirilsReinke/MrKirilsReinke?color=%230ABF53&logo=Github)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMrKirilsReinke&countColor=%230abf53&style=flat)
-<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrKirilsReinke&theme=vue&background=071A2C)](https://git.io/streak-stats)
 
-<br><br><br>
+<br><br>
 
 <h3 align="center">
   A range of technologies and frameworks always in my :toolbox::
@@ -81,7 +81,9 @@
   Thank you for visiting my repository. 
   <br>
   Cheers!:beers:
-</p>                                                                                                                                              
+</p>    
+                 
+
                                                                                                                                                  
 <!--
 **MrKirilsReinke/MrKirilsReinke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
