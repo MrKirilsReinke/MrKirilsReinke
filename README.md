@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. My name is Kirils, and it's nice to meet you here! :sunglasses:</h3>
+  <h1>Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. My name is Kirils, and it's nice to meet you here! :sunglasses:</h1>
 </div>
 
 <br>
@@ -11,7 +11,7 @@
 
 </div>
                                                                                                                                                  
-<p align="start">
+<p align="right">
   <i>
     As a developer, <br>
     I strongly believe in the principles of DRY (Don't Repeat Yourself), <br>
@@ -21,11 +21,11 @@
 
 <hr>
 
-<h2 align="left">
+<h2 align="center">
   Technologies and frameworks I :toolbox: with:
 </h2>
              
-<p align="left">
+<p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="Typescript" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML 5" width="50" height="50">
@@ -58,7 +58,7 @@
 
 <hr>
 
-<h2 align="left">
+<h2 align="center">
   Some of my recent projects:
 </h2>
 
