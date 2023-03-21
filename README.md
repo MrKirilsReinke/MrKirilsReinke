@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">. My name is Kirill, and it's nice to meet you here!
+    Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">. My name is Kirill, it's nice to meet you in advance!
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32px">
   </h1>
 </div>
@@ -39,24 +39,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="50" height="50">
+  <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="50" height="50">   -->
     
  <br>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" alt="ESLint" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" width="50" height="50">
+  <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="50" height="50">   -->
     
   <br>
   
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodeJS" width="50" height="50">
+<!--  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodeJS" width="50" height="50">
  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50"> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="50" height="50"> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50">   -->
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50">
- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50">  
+ <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50">
 </p>
 
 <hr>
