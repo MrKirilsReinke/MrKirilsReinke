@@ -43,7 +43,7 @@
  <br>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50">
-  <img src="https://stately.ai/intro-xstate-logo-white.svg" alt="Xstate" width="120" height="50">
+  <img src="https://stately.ai/intro-xstate-logo-black.svg" alt="Xstate" width="120" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" alt="ESLint" width="50" height="50">
     
   <br>
