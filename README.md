@@ -60,7 +60,7 @@
 <div align="center">
   <div style="display: flex; justify-content: center;">
     <a href="https://github.com/MrKirilsReinke/1.React-Xstate---Traffic-light">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=1.React-Xstate---Traffic-light" alt="1.React-Xstate---Traffic-light" />
+
     </a>
     <a href="https://github.com/MrKirilsReinke/12.1.-Typescript-Classes-OOP---Base-Carousel-App">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=12.1.-Typescript-Classes-OOP---Base-Carousel-App" alt="12.1.-Typescript-Classes-OOP---Base-Carousel-App" />
