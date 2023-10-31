@@ -39,7 +39,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50">
-  <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="50" height="50">   -->
     
  <br>
 
@@ -60,9 +59,9 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center;">
-<!--     <a href="https://github.com/MrKirilsReinke/1.React-Xstate---Traffic-light">
+    <a href="https://github.com/MrKirilsReinke/1.React-Xstate---Traffic-light">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=1.React-Xstate---Traffic-light" alt="1.React-Xstate---Traffic-light" />
-    </a> -->
+    </a>
     <a href="https://github.com/MrKirilsReinke/12.1.-Typescript-Classes-OOP---Base-Carousel-App">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=12.1.-Typescript-Classes-OOP---Base-Carousel-App" alt="12.1.-Typescript-Classes-OOP---Base-Carousel-App" />
     </a>
