@@ -59,14 +59,14 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center;">
-    <a href="https://github.com/MrKirilsReinke/1.React-Xstate---Traffic-light">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=1.React-Xstate---Traffic-light" alt="1.React-Xstate---Traffic-light" />
-    </a>
     <a href="https://github.com/MrKirilsReinke/12.1.-Typescript-Classes-OOP---Base-Carousel-App">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=12.1.-Typescript-Classes-OOP---Base-Carousel-App" alt="12.1.-Typescript-Classes-OOP---Base-Carousel-App" />
     </a>
     <a href="https://github.com/MrKirilsReinke/13.1.-React-Components---Base-CRUD-App-with-DB">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=13.1.-React-Components---Base-CRUD-App-with-DB" alt="13.1.-React-Components---Base-CRUD-App-with-DB" />
+    </a>
+    <a href="https://github.com/MrKirilsReinke/1.React-Xstate---Traffic-light">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=1.React-Xstate---Traffic-light" alt="1.React-Xstate---Traffic-light" />
     </a>
   </div>
 </div>
@@ -87,7 +87,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/MrKirilsReinke">
-    <img src="https://img.shields.io/badge/github-0?style=for-the-badge&logo=github&logoColor=white&color=071A2C"" alt="Github"/>
+    <img src="https://img.shields.io/badge/github-0?style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
   </a>
     <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqVPLWqHqdbGNHGrQKwLzfLnbNntzCMBmZpBlMxpFKRcFrGdwFSXHsbxbDlkBWvMcRztWg">
     <img src="https://img.shields.io/badge/gmail-%231877F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Facebook"/>
