@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">. My name is Kirill, it's nice to meet you in advance!
+    Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">My name is Kirill, it's nice to meet you in advance!
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32px">
   </h1>
 </div>
