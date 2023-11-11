@@ -66,13 +66,12 @@
     <a href="https://github.com/MrKirilsReinke/13.1.-React-Components---Base-CRUD-App-with-DB">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=13.1.-React-Components---Base-CRUD-App-with-DB" alt="13.1.-React-Components---Base-CRUD-App-with-DB" />
     </a>
+    <a href="https://github.com/MrKirilsReinke/15.-React-Router-React-Query">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=15.-React-Router-React-Query" alt="15.-React-Router-React-Query" />
+    </a>
     <a href="https://github.com/MrKirilsReinke/16.-React-Xstate---Traffic-light">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=16.-React-Xstate---Traffic-light" alt="16.-React-Xstate---Traffic-light" />
     </a>
-        <a href="https://github.com/MrKirilsReinke/15.-React-Router-React-Query">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=15.-React-Router-React-Query" alt="15.-React-Router-React-Query" />
-    </a>
-    
   </div>
 </div>
 
