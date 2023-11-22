@@ -72,6 +72,9 @@
     <a href="https://github.com/MrKirilsReinke/16.-React-Xstate---Traffic-light">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=16.-React-Xstate---Traffic-light" alt="16.-React-Xstate---Traffic-light" />
     </a>
+        <a href="https://github.com/MrKirilsReinke/16.-React-Xstate---Traffic-light">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=16.1.-React-Xstate---Registration-form" alt="16.1.-React-Xstate---Registration-form" />
+    </a>
   </div>
 </div>
 
