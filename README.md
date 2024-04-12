@@ -69,7 +69,7 @@
     <a href="https://github.com/MrKirilsReinke/16.1.-React-Xstate---Registration-form">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=16.1.-React-Xstate---Registration-form" alt="16.1.-React-Xstate---Registration-form" />
     </a>
-    <a href="https://github.com/MrKirilsReinke/16.1.-React-Xstate---Registration-form">
+    <a href="https://github.com/MrKirilsReinke/18.-NestJS---Authentication">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrKirilsReinke&repo=18.-NestJS---Authentication" alt="18.-NestJS---Authentication" />
     </a>
   </div>
